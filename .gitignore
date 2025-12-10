@@ -1,0 +1,35 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Build output
+*.app
+*.dmg
+DerivedData/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# User specific
+xcuserdata/
+*.xcuserstate
