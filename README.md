@@ -1,7 +1,7 @@
 # Mac 性能监控 (Mac Performance Monitor)
 
 <p align="center">
-  <img src="docs/icon.png" width="128" height="128" alt="App Icon">
+  <img width="804" height="1000" alt="image" src="https://github.com/user-attachments/assets/9c6aaffe-8e09-472f-b073-a3d8e1652016" />
 </p>
 
 <p align="center">
@@ -9,9 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-macOS%2013+-blue.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/swift-5.9+-orange.svg" alt="Swift">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+ <img width="800" height="1016" alt="image" src="https://github.com/user-attachments/assets/3ec7fd60-a57a-4de8-930f-346e330873a6" />
+<img width="822" height="996" alt="image" src="https://github.com/user-attachments/assets/db7f261a-eb16-4ff2-8de6-9fd49f5bf88d" />
+
+<img width="804" height="1008" alt="image" src="https://github.com/user-attachments/assets/c03b660e-0177-4c50-affc-d05356f2a410" />
+
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/781639ec-fe0c-4070-8a21-6d22733b64f9" />
 </p>
 
 ---
