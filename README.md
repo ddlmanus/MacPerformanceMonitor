@@ -1,5 +1,31 @@
 # Mac 性能监控 (Mac Performance Monitor)
+<p align="center">
+  <img src="docs/icon.png" width="128" height="128" alt="App Icon">
+</p>
 
+<p align="center">
+  <strong>一款轻量级的 macOS 状态栏性能监控工具</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-macOS%2013+-blue.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/swift-5.9+-orange.svg" alt="Swift">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+</p>
+---
+
+## ✨ 功能特性
+
+| 功能 | 说明 |
+|------|------|
+| 📱 **应用监控** | 查看运行中的应用及其 CPU/内存占用，可退出应用 |
+| 💻 **进程监控** | 查看所有进程的 CPU/内存占用情况 |
+| 🔌 **端口监控** | 查看端口占用情况，可释放端口 |
+| 🧹 **缓存清理** | 一键清理浏览器缓存、系统缓存 |
+
+## 📸 截图
+
+<p align="center">
+ 
 <p align="center">
   <img width="804" height="1000" alt="image" src="https://github.com/user-attachments/assets/9c6aaffe-8e09-472f-b073-a3d8e1652016" />
 </p>
@@ -16,23 +42,6 @@
 
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/781639ec-fe0c-4070-8a21-6d22733b64f9" />
 </p>
-
----
-
-## ✨ 功能特性
-
-| 功能 | 说明 |
-|------|------|
-| 📱 **应用监控** | 查看运行中的应用及其 CPU/内存占用，可退出应用 |
-| 💻 **进程监控** | 查看所有进程的 CPU/内存占用情况 |
-| 🔌 **端口监控** | 查看端口占用情况，可释放端口 |
-| 🧹 **缓存清理** | 一键清理浏览器缓存、系统缓存 |
-
-## 📸 截图
-
-<p align="center">
-  <img src="docs/screenshot-apps.png" width="300" alt="应用监控">
-  <img src="docs/screenshot-process.png" width="300" alt="进程监控">
 </p>
 
 ## 🚀 安装
